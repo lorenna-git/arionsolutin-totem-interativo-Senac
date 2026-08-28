@@ -1,10 +1,16 @@
 # arionsolutin-totem-interativo-Senac
 🖥️ **ArionSoluttion — Totem Interativo Senac Maringá**  Sistema web desenvolvido em **PHP, MySQL e PDO** para um totem interativo de autoatendimento, permitindo consultar cursos do **Senac Maringá**, visualizar informações como carga horária, valores, datas e horários, além de registrar o interesse dos usuários nos cursos.
-# 🖥️ ArionSoluttion — Totem Interativo Senac Maringá
+## 👨‍💻 Criadores do Sistema
 
-Sistema web desenvolvido para funcionar como um **Totem Interativo de Autoatendimento**, permitindo que usuários consultem cursos disponíveis no **Senac Maringá**, visualizem informações das turmas e demonstrem interesse em um curso.
+**Rodrigo Schebeleski**
+**Lorenna do Nascimento**
 
-O projeto foi desenvolvido utilizando **PHP, MySQL e PDO**, com interface responsiva e estrutura preparada para execução através do XAMPP.
+### 🏢 Projeto
+
+**ArionSoluttion — Totem Interativo Senac Maringá**
+
+Projeto acadêmico desenvolvido por Rodrigo Schebeleski e Lorenna do Nascimento, com o objetivo de criar um sistema de autoatendimento para consulta de cursos, informações de turmas e registro de interesse dos usuários.
+
 
 ---
 
