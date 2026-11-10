@@ -1,53 +1,54 @@
-# ArionSoluttion — Totem Interativo
+# ArionSoluttion – Totem Interativo
 
-Projeto acadêmico de Totem Interativo para Central de Matrículas, desenvolvido por Rodrigo Schebeleski e Lorena do Nascimento.
+**Sistema de atendimento interativo para consulta de cursos e informações educacionais.**
 
-## Tecnologias
-- PHP 8+
-- MySQL
-- PDO
-- HTML5
-- CSS3
-- JavaScript puro
-- XAMPP / Apache / phpMyAdmin
+🌐 **Acesse o sistema:** https://arionsoluttionweb.infinityfree.io/
 
-## Instalação
+## 📌 Sobre o projeto
 
-1. Instale e abra o XAMPP.
-2. Inicie Apache e MySQL.
-3. Copie esta pasta para `C:\xampp\htdocs\arionsoluttion`.
-4. Acesse `http://localhost/phpmyadmin`.
-5. Importe `banco/arionsoluttion.sql`.
-6. Abra `http://localhost/arionsoluttion/`.
+O **ArionSoluttion – Totem Interativo** é um sistema desenvolvido para facilitar o atendimento nas Centrais de Matrículas, permitindo que os usuários consultem informações sobre áreas de formação e cursos disponíveis.
 
-## Banco
-O projeto usa:
-- banco: `arionsoluttion_totem`
-- usuário padrão XAMPP: `root`
-- senha: vazia
+O projeto busca tornar o acesso às informações mais simples, rápido e organizado, reduzindo a necessidade de atendimento manual para consultas básicas.
 
-Se o seu MySQL possuir senha, altere somente `config/conexao.php`.
+## 🚀 Funcionalidades
 
-## Logo
-O projeto não cria nem modifica o logotipo oficial do Senac. O cabeçalho usa um marcador `S` como espaço reservado. Para apresentação, substitua por uma imagem oficial autorizada.
+- Consulta de áreas de formação.
+- Visualização de cursos disponíveis.
+- Consulta de informações dos cursos.
+- Área administrativa para gerenciamento do sistema.
+- Cadastro, edição e exclusão de cursos.
+- Gerenciamento de áreas.
+- Registro e acompanhamento de atendimentos.
+- Interface desenvolvida para facilitar a navegação dos usuários.
 
-## Dados dos cursos
-O arquivo enviado para desenvolvimento lista os nomes dos cursos e identifica os cursos PSG. Como não foram fornecidos valores, datas, horários, modalidades e cidades no material recebido, esses campos ficam como `Consultar Senac PR`, conforme solicitado.
+## 🛠️ Tecnologias utilizadas
 
-## Funcionalidades
-- Tela inicial para Totem
-- Áreas vindas do MySQL
-- Pesquisa e filtros de cursos
-- Detalhes de cursos
-- Registro de interesse
-- Lista de espera
-- Protocolo gerado no PHP
-- Dashboard administrativo
-- CRUD de cursos
-- Cadastro/edição de áreas
-- Consulta de atendimentos
-- Acessibilidade
-- Relógio
-- Timeout de inatividade
-- Máscaras de CPF e telefone
-- PDO e prepared statements
+- **PHP** – desenvolvimento das funcionalidades e regras do sistema.
+- **MySQL** – armazenamento e gerenciamento dos dados.
+- **HTML5** – estrutura das páginas.
+- **CSS3** – estilização e layout.
+- **JavaScript** – interatividade.
+- **PDO** – conexão e comunicação com o banco de dados.
+
+## 🌐 Sistema publicado
+
+O projeto está hospedado na plataforma InfinityFree.
+
+**Link de acesso:**  
+https://arionsoluttionweb.infinityfree.io/
+
+## 👨‍💻 Desenvolvimento
+
+Projeto acadêmico desenvolvido como parte dos estudos do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas**, no Senac.
+
+**Desenvolvedores:**
+- Rodrigo
+- Lorenna
+
+## 📚 Objetivo acadêmico
+
+Aplicar conhecimentos de desenvolvimento web, programação PHP, banco de dados relacionais e construção de sistemas para solucionar uma necessidade real de atendimento e consulta de informações.
+
+---
+
+**ArionSoluttion – Tecnologia facilitando o acesso à informação.**
